@@ -6,6 +6,8 @@ build/
 dist/
 dist*/
 *.log
+*.txt
+!requirements.txt
 *.db
 *.db-*
 *.sqlite*
